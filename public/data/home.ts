@@ -3,8 +3,7 @@ import { FaLocationDot } from "react-icons/fa6";
 import { FaPhoneAlt, FaGithub, FaLinkedin } from "react-icons/fa";
 import { FaUniversity } from "react-icons/fa";
 import { FaGraduationCap } from "react-icons/fa6";
-import { FaFacebook } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
+
 
 export const homeData = {
   myImage: "/assets/houssem.jpeg", // Assure-toi que ce fichier existe dans /public/assets

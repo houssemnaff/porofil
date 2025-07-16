@@ -1,7 +1,6 @@
 import { HStack, Text } from "@chakra-ui/react";
 import ToolBarLeft from "./ToolBarLeft";
 import ToolBarRight from "./ToolBarRight";
-import { useState } from "react";
 
 const ToolBar = ({ onTerminalClick }: { onTerminalClick?: () => void }) => {
   return (
