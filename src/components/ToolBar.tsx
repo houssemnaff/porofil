@@ -13,7 +13,7 @@ const ToolBar = ({ onTerminalClick }: { onTerminalClick?: () => void }) => {
         left="50%"
         textAlign={"center"}
       >
-        Kareem Hamouda - Full Stack Developer
+        NAFFOUTI HOUSSEM - Full Stack & Mobile Developer | MERN & Flutter
       </Text>
       <ToolBarRight />
     </HStack>
