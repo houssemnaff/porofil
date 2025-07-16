@@ -1,8 +1,9 @@
 export const aboutMe = {
-  description: [
-    "I'm a passionate Full Stack Developer specialized in Flutter and the MERN stack. I'm currently pursuing a degree in Information Systems Development at ISET Sousse, Tunisia.",
-    "I’ve worked on several innovative projects including an e-learning platform, a real estate app powered by AI, and an e-commerce mobile app. I have experience in mobile and web development, backend services with Node.js, Spring Boot, Supabase, and Symfony, as well as UI/UX design. I'm also exploring artificial intelligence and machine learning, enjoying integrating smart features into real-world applications. My goal is to build useful, scalable, and modern solutions that improve user experience and solve real problems.",
-  ],
+ description: [
+  "I'm a passionate Full Stack Developer with a strong interest in both web and mobile development. I enjoy learning new technologies and building efficient, user-friendly applications.",
+  "I’m particularly motivated by the challenge of solving real-world problems through clean code, intuitive interfaces, and scalable architectures. My goal is to continuously grow as a developer and contribute to impactful digital solutions.",
+],
+
   cvPath: "/assets/houssem naffouticv (4).pdf.pdf", // Upload your own CV in /public/assets as CV.pdf
   cvFileNameAfterDownload: "Houssem Naffouti CV.pdf", // File name on download
 };
